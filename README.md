@@ -1,6 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+
+
 ## Hi there, I'm studying Front Development
 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParkJunHyeon1209&theme=default)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
 
 <!--
 **ParkJunHyeon1209/ParkJunHyeon1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
