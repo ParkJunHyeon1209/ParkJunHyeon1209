@@ -28,12 +28,13 @@ Information Security(정보 보안 학과)
 
 ### Front - 디자인 되어 있는 것을 흉내 낼 수 있는 수준, 기능 구현은 학습이 더 필요
 <br>
-#### - HTML
+- #### HTML
 <br>
-#### - CSS
-#### - JavaScript
+- #### CSS
 <br>
-#### - jQuery
+- #### JavaScript
+<br>
+- #### jQuery
 <br>
 
 
