@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=dd80ea&height=220&section=header&text=Hi!%20I'm%20ParkJunHyeon&fontColor=60fbfa&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
+# 공부 하기 싫다!!!
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParkJunHyeon1209&theme=default)
 
