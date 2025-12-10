@@ -1,12 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=dd80ea&height=220&section=header&text=Hi!%20I'm%20ParkJunHyeon&fontColor=60fbfa&fontSize=50&&fontAlignY=38&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=dd80ea&height=220&section=header&text=Hi!%20I'm%20ParkJunHyeon&fontColor=60fbfa&fontSize=50&&fontAlignY=38&animation=fadeIn) -->
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Hello, I'm JunHyeon Park!&fontSize=50"/>
+
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjh140123@gmail.com)](pjh140123@gmail.com)
 
 
 # I'm studying Front Development!
 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParkJunHyeon1209&theme=default) -->
+
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
+
+
+
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=dd80ea&height=118&section=footer&animation=fadeIn)
