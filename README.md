@@ -1,14 +1,37 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=dd80ea&height=220&section=header&text=Hi!%20I'm%20ParkJunHyeon&fontColor=60fbfa&fontSize=50&&fontAlignY=38&animation=fadeIn) -->
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Hello, I'm JunHyeon Park!&fontSize=50"/>
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=dd80ea&height=220&section=header&text=Hi!%20I'm%20JunHyeonPark&fontColor=60fbfa&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjh140123@gmail.com)](pjh140123@gmail.com)
+<!-- gmail -->
+<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjh140123@gmail.com)](pjh140123@gmail.com) -->
 
-
+<!-- h1 -->
 # I'm studying Front Development!
 
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParkJunHyeon1209&theme=default) -->
+---
+## Relative License
+-  ### Engineer Information Processing(정보 처리 기사)
+
+
+---
+## Major
+Information Security(정보 보안 학과)
+
+
+---
+## Related skills
+### Back
+#### - Python 
+#### - Java
+#### - C
+
+
+### Front
+#### - HTML
+#### - CSS
+#### - JavaScript
+#### - jQuery
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
