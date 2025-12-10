@@ -4,8 +4,7 @@
 # I'm studying Front Development!
 
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJunHyeon1209&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjh140123@gmail.com)](pjh140123@gmail.com)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParkJunHyeon1209&theme=default)
