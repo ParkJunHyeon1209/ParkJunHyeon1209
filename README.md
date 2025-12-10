@@ -2,9 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=dd80ea&height=220&section=header&text=Hi!%20I'm%20JunHyeonPark&fontColor=60fbfa&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
 
-<!-- gmail -->
-<!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjh140123@gmail.com)](pjh140123@gmail.com) -->
-
 <!-- h1 -->
 # I'm studying Front Development!
 
@@ -25,17 +22,12 @@ Information Security(정보 보안 학과)
 #### - Java
 
 <br>
-
 ### Front - 디자인 되어 있는 것을 흉내 낼 수 있는 수준, 기능 구현은 학습이 더 필요
 <br>
-- #### HTML
-<br>
-- #### CSS
-<br>
-- #### JavaScript
-<br>
-- #### jQuery
-<br>
+#### - HTML
+#### - CSS
+#### - JavaScript
+#### - jQuery
 
 
 
