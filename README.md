@@ -1,12 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=dd80ea&height=220&section=header&text=Hi!%20I'm%20ParkJunHyeon&fontColor=60fbfa&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
-# 공부 하기 싫다!!!
 
-## 하지만 돈 벌려면 해야지..
+# I'm studying Front Development!
 
-### branch수정
+
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJunHyeon1209&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParkJunHyeon1209&theme=default)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=dd80ea&height=118&section=footer&animation=fadeIn)
 
