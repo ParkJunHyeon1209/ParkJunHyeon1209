@@ -15,7 +15,7 @@ Information Security(정보 보안 학과)
 
 
 ## Related skills
-<br>
+
 ### Back - 코드를 읽고 무엇을 의도했는지 파악은 가능하지만, 작성은 자신있지 않는 수준
 
 #### - Python
@@ -23,7 +23,7 @@ Information Security(정보 보안 학과)
 
 <br>
 ### Front - 디자인 되어 있는 것을 흉내 낼 수 있는 수준, 기능 구현은 학습이 더 필요
-<br>
+
 #### - HTML
 #### - CSS
 #### - JavaScript
