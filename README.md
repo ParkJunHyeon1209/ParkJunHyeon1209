@@ -50,8 +50,9 @@
 
 - 2025.11.18 ~ 2026.04.07 : ESTsoft 11기 프론트엔드 개발자 부트캠프 참여. (참여중)
 
-- <div align="center">
-    <p>2023.09 ~ 23.12</p>
+- <p>2023.09 ~ 23.12</p>
+  <div align="center">
+    
     <img width="345" height="174" alt="image" src="https://github.com/user-attachments/assets/9700a2f5-b65a-4ceb-8b14-2b2bde8b1094" />
     <img width="276" height="197" alt="image" src="https://github.com/user-attachments/assets/aed40d33-bd58-4a54-834e-f6becc06afb7" />
     <img width="600" height="641" alt="image" src="https://github.com/user-attachments/assets/9c26f476-0bd7-4d86-8bc7-a4bc91afe7cc" />
