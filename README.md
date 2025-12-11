@@ -34,17 +34,35 @@
 
 ### Back - 코드를 읽고 무엇을 의도했는지 파악은 가능하지만, 작성은 자신있지 않은 수준임.
 
-- Python
-- Java
+- Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br>
+
+- Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Front - 디자인 되어있는 것을 흉내 낼 수 있는 수준. JS, jQuery, React는 좀 더 학습 예정.
 
-- HTML : 크게 어긋나지 않는 선에서 마크업 하는 수준
-- CSS : 어느정도 원하는 디자인을 구현할 수 있지만 반응형은 아직 어려움.
-- JavaScript : 이벤트를 연결하여 기능을 구현할 줄은 알지만 어려움이 많음.
-- jQuery : 다뤄본적은 있으나 학습필요.
-- React : 아직 안다룸.
-- Vue : 간단한 페이지는 구현해 본 경험이 있으나 어려움이 많음.
+- HTML ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): 크게 어긋나지 않는 선에서 마크업 하는 수준
+
+<br>
+  
+- CSS ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white): 어느정도 원하는 디자인을 구현할 수 있지만 반응형은 아직 어려움.
+
+<br>
+  
+- JavaScript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E): 이벤트를 연결하여 기능을 구현할 줄은 알지만 어려움이 많음.
+
+<br>
+
+- jQuery ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white): 다뤄본적은 있으나 학습필요.
+
+<br>
+  
+- React ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB): 아직 다뤄보지 못했음(학습 예정).
+
+<br>
+  
+- Vue ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D): 간단한 페이지는 구현해 본 경험이 있으나 어려움이 많음. 
 
 ---
 
