@@ -3,18 +3,27 @@
   <h1>PJH's Profile</h1>
   <p>My name is Park Jun Hyeon,interested in Frontend Development</p>
 </div>
+<br>
 
 ## Related License
 
 - #### Engineer Information Processing(정보 처리 기사)
 
+<br>
+
 ## Major
 
 - #### Information Security(정보 보안 학과)
 
-## Related skills
+<br>
 
+## Related skills
 ### Front - 디자인 되어있는 것을 흉내 낼 수 있는 수준. JS, jQuery, React는 좀 더 학습 예정.
+
+' ': 다뤄본 적 없음
+'*': 다뤄 본 적은 있지만 잘 모름
+'**' : 다루면서 기초 기능은 사용 가능하지만, 
+
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): 크게 어긋나지 않는 선에서 마크업 하는 수준
 
@@ -38,6 +47,8 @@
   
 - ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D): 간단한 페이지는 구현해 본 경험이 있으나 어려움이 많음.
 
+<br>
+
 ### Back - 코드를 읽고 무엇을 의도했는지 파악은 가능하지만, 작성은 자신있지 않은 수준임.
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,7 +58,7 @@
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Experience
-
+<br>
 - 2025.11.18 ~ 2026.04.07 : ESTsoft 11기 프론트엔드 개발자 부트캠프 참여. (참여중)
 
 - <p>2023.09 ~ 23.12</p>
