@@ -75,16 +75,14 @@ UX를 고려하여 기능과 디자인이 조화를 이루는 UI 개발을 지�
 - ESTsoft 11기 프론트엔드 개발자 부트캠프 우수 수료생 발탁.
 
 - <p>2023.09 ~ 23.12</p>
-  <div align="center">
-    
-    <img width="345" height="174" alt="image" src="https://github.com/user-attachments/assets/9700a2f5-b65a-4ceb-8b14-2b2bde8b1094" />
-    <img width="276" height="197" alt="image" src="https://github.com/user-attachments/assets/aed40d33-bd58-4a54-834e-f6becc06afb7" />
-    <img width="600" height="641" alt="image" src="https://github.com/user-attachments/assets/9c26f476-0bd7-4d86-8bc7-a4bc91afe7cc" />
-
+  <section align="center">
     <p>학창 시절 아두이노를 이용해 심전도 측정 센서를 개발하여 데이터를 웹 페이지로 출력하는 프로젝트를 진행함.</p>
     <p>프로젝트 중 하드웨어인 라즈베리 파이, 아두이노 개발, 웹페이지 일부를 팀원들과 함께 구현함.</p>
     <p>프로젝트 구현을 마친 이후 프로젝트 논문을 작성함.</p>
-  </div>
+  </section>
+
+- <p> 팀 프로젝트로 리액트, 이모션을 활용하여 가상의 브랜드를 만들어 미니 e-커머스 pulse 제작. </p>
+- <p> 팀 프로젝트로 바닐라 js로 로컬스토리지를 활용하여 칸반 보드 기반의 flowdash를 만듦. </p>
 
 ## Strength
 
