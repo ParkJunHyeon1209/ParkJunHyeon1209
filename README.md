@@ -53,7 +53,7 @@ UX를 고려하여 기능과 디자인이 조화를 이루는 UI 개발을 지�
 
 <br>
   
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB): ***
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB): ****
 
 <br>
   
